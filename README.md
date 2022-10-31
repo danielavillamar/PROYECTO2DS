@@ -11,3 +11,5 @@ resolución de problemas similares.
 5. Discuta sobre los resultados obtenidos con la aplicación de los modelos.  
 6. Incluya al menos 3 visualizaciones estáticas que ilustren de una forma gráfica los resultados 
 obtenidos.  
+
+Las Graficas de los clusters son interactivas por lo cual no se pueden visualizar en web pero agregue screenshots de ellas y si corren el codigo sí se miran obviamente
