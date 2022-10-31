@@ -13,3 +13,5 @@ resolución de problemas similares.
 obtenidos.  
 
 Las Graficas de los clusters son interactivas por lo cual no se pueden visualizar en web pero agregue screenshots de ellas y si corren el codigo sí se miran obviamente
+
+Link google drive:https://docs.google.com/document/d/1rZtNE2L7_lHVHXjkQz2n1ZusP6JzBdd8JGq3NwvU01M/edit?usp=sharing
